@@ -1,5 +1,5 @@
 # Brasil <span>&#x1f1e7;&#x1f1f7;</span>
-Un collègue a mis en ligne, en 2015, un site web sur les Jeux Olympiques de Rio.
+Un collègue a mis en ligne, en 2015, un site web en lien avec les Jeux Olympiques de Rio.
 Il voulait notamment y intégrer les premières pages de certains quotidiens, [mises en ligne tous les matins par *Newseum*](http://www.newseum.org/todaysfrontpages/?tfp_display=gallery&tfp_region=South%20America&tfp_sort_by=country).
 Il souhaitait aussi que les premières pages soient déposées tous les matins dans sa boîte Dropbox.
 
