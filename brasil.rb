@@ -109,7 +109,7 @@ def cueillette(url1,url2,jour,jour0,j,ligne,jetons,mois,annee)
 	if result.code == "200"
 		puts "On ramasse #{jornal}"
 
-		# On se connecte à l'API de Dropbox au moyen de deux jetons d'accès, le mien et celui du site Brazissimo, placés dans la variable jetons
+		# On se connecte à l'API de Dropbox au moyen de deux jetons d'accès, le mien et celui de mon collègue, placés dans la variable jetons
 
 		jetons.each do |jeton|
 
